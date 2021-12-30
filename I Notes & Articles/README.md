@@ -1,2 +1,3 @@
-# awesome-react-depository
-React notes, experiments, design patterns and many more
+Articles
+-
+1. [react-hooks-understanding-component-re-renders](https://medium.com/@guptagaruda/react-hooks-understanding-component-re-renders-9708ddee9928)
